@@ -20,7 +20,7 @@
 
 ## 🎯 Sobre o Projeto
 
-Este projeto foi desenvolvido para o canal [**@vbluuiza**](https://youtube.com/@vbluuiza) com o objetivo de demonstrar a construção de um **pipeline ETL completo** utilizando as melhores práticas de Engenharia de Dados.
+Este projeto foi desenvolvido inspirado no canal [**@vbluuiza**](https://youtube.com/@vbluuiza) com o objetivo de demonstrar a construção de um **pipeline ETL completo** utilizando as melhores práticas de Engenharia de Dados.
 
 O pipeline coleta dados meteorológicos da API OpenWeatherMap a cada hora, transforma os dados para um formato estruturado e os armazena em um banco de dados PostgreSQL para análises futuras.
 
